@@ -3,7 +3,7 @@
 # - 698
 # -----
 # You can see the instructions in this link to know exactly what this function does.
-
+#https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 
 def arithmetic_arranger(problems, args = False):
   #First we check that there is 5 problems at most as the instructions indicates.
